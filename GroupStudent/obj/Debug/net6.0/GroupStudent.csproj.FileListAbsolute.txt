@@ -1,0 +1,15 @@
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.csproj.AssemblyReference.cache
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.AssemblyInfoInputs.cache
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.AssemblyInfo.cs
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.csproj.CoreCompileInputs.cache
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\bin\Debug\net6.0\GroupStudent.exe
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\bin\Debug\net6.0\GroupStudent.deps.json
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\bin\Debug\net6.0\GroupStudent.runtimeconfig.json
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\bin\Debug\net6.0\GroupStudent.dll
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\bin\Debug\net6.0\GroupStudent.pdb
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.dll
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\refint\GroupStudent.dll
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.pdb
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\GroupStudent.genruntimeconfig.cache
+C:\Users\guest\source\repos\GroupStudent\GroupStudent\obj\Debug\net6.0\ref\GroupStudent.dll
